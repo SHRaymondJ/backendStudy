@@ -1,0 +1,14 @@
+F:\Github\backendStudy\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.exe
+F:\Github\backendStudy\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.deps.json
+F:\Github\backendStudy\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.runtimeconfig.json
+F:\Github\backendStudy\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.runtimeconfig.dev.json
+F:\Github\backendStudy\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.dll
+F:\Github\backendStudy\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.pdb
+F:\Github\backendStudy\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.csproj.AssemblyReference.cache
+F:\Github\backendStudy\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\backendStudy\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.AssemblyInfoInputs.cache
+F:\Github\backendStudy\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.AssemblyInfo.cs
+F:\Github\backendStudy\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.csproj.CoreCompileInputs.cache
+F:\Github\backendStudy\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.dll
+F:\Github\backendStudy\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.pdb
+F:\Github\backendStudy\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.genruntimeconfig.cache
